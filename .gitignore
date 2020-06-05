@@ -1,0 +1,6 @@
+# VS Project Files
+*.vcxproj*
+
+# Talon Dirs
+bin
+int
